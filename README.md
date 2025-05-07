@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Anusha
 
-<!--
-**vi-anusha/vi-anusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a **Data Scientist** working on impactful and scalable ML solutions  
+🌱 I’m currently learning: Machine Learning, MLOps, and Web Extensions  
+🛠️ I work with: Python, Spark, SQL, JavaScript, React  
+📫 Reach me at: anushavirri@gmail.com or [LinkedIn](https://linkedin.com/in/anushavirri)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=E25A1C)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi-anusha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi-anusha&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushavirri)
