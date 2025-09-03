@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anusha
 
 🎯 I'm a **Data Scientist** working on impactful and scalable ML solutions  
-🌱 I’m currently learning: Machine Learning, MLOps, and Web Extensions  
+🌱 I'm currently learning: Machine Learning, MLOps, and Web Extensions  
 🛠️ I work with: Python, Spark, SQL, JavaScript, React  
 📫 Reach me at: anushavirri@gmail.com or [LinkedIn](https://linkedin.com/in/anushavirri)
 
