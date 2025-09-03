@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi-anusha&include_all_commits=true&show_icons=true&theme=radical&hide=stars&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi-anusha&include_all_commits=true&show_icons=true&theme=radical&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi-anusha&layout=compact&theme=radical)
 
